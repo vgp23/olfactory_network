@@ -1,3 +1,5 @@
 __pycache__/
 Data/
 trained/
+.DS_Store
+**/.DS_Store
